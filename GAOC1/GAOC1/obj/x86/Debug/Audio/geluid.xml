@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 4256551494;
+    Bank Last Revised High = 30350757;
+
+    Wave
+    {
+        Name = missilelaunch;
+        File = missilelaunch.wav;
+        Build Settings Last Modified Low = 2292872620;
+        Build Settings Last Modified High = 30032280;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 425792;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 611081008;
+            Last Modified High = 29918277;
+        }
+    }
+
+    Wave
+    {
+        Name = explosion;
+        File = explosion.wav;
+        Build Settings Last Modified Low = 2292872620;
+        Build Settings Last Modified High = 30032280;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 221184;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 611237258;
+            Last Modified High = 29918277;
+        }
+    }
+}
+
+</WaveBank>
+  <WaveBank Name="Wave Bank 2">Wave Bank
+{
+    Name = Wave Bank 2;
+    Xbox File = Xbox\Wave Bank 2.xwb;
+    Windows File = Win\Wave Bank 2.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 4256571662;
+    Bank Last Revised High = 30350757;
+
+    Wave
+    {
+        Name = explosion;
+        File = ..\audio\explosion.wav;
+        Build Settings Last Modified Low = 3196394267;
+        Build Settings Last Modified High = 30350757;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 221184;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 611237258;
+            Last Modified High = 29918277;
+        }
+    }
+
+    Wave
+    {
+        Name = missilelaunch;
+        File = ..\audio\missilelaunch.wav;
+        Build Settings Last Modified Low = 3196404265;
+        Build Settings Last Modified High = 30350757;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 425792;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 611081008;
+            Last Modified High = 29918277;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

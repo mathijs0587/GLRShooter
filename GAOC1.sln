@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAOC1", "GAOC1\GAOC1\GAOC1.csproj", "{1AE699E3-82DC-4CC3-807E-B854A267434B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GAOC1Content", "GAOC1\GAOC1Content\GAOC1Content.contentproj", "{0E019CCC-A9D7-4E23-AE47-5F91A3BABB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE699E3-82DC-4CC3-807E-B854A267434B}.Debug|x86.ActiveCfg = Debug|x86
+		{1AE699E3-82DC-4CC3-807E-B854A267434B}.Debug|x86.Build.0 = Debug|x86
+		{1AE699E3-82DC-4CC3-807E-B854A267434B}.Release|x86.ActiveCfg = Release|x86
+		{1AE699E3-82DC-4CC3-807E-B854A267434B}.Release|x86.Build.0 = Release|x86
+		{0E019CCC-A9D7-4E23-AE47-5F91A3BABB5F}.Debug|x86.ActiveCfg = Debug|x86
+		{0E019CCC-A9D7-4E23-AE47-5F91A3BABB5F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

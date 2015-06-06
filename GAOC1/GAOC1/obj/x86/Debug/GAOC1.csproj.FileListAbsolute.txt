@@ -1,0 +1,46 @@
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\bin\x86\Debug\GAOC1.exe
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\bin\x86\Debug\GAOC1.pdb
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.csprojResolveAssemblyReference.cache
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.exe
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.pdb
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\background.xnb
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\cannon.xnb
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\cannonball.xnb
+D:\75131\Documents\Visual Studio 2010\Projects\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\enemy.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\background.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\cannon.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\cannonball.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\enemy.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\GAOC1.exe
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\GAOC1.pdb
+K:\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.csprojResolveAssemblyReference.cache
+K:\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.exe
+K:\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.pdb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Fonts\GameFont.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\sprite_sheet.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\explosion.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\missilelaunch.xnb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\audio.xgs
+K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Menu\titel.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\background.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\cannon.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\cannonball.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\enemy.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\sprite_sheet.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Menu\titel.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Fonts\GameFont.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\explosion.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\missilelaunch.xnb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\audio.xgs
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\GAOC1.exe
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\GAOC1.pdb
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.csprojResolveAssemblyReference.cache
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.exe
+\\file2\klassen\i1b2\75131\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\GAOC1.pdb

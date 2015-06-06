@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\background.tga</Source>
+      <Name>Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\background.xnb</Output>
+      <Time>2014-01-09T10:50:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannon.tga</Source>
+      <Name>Sprites\cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\cannon.xnb</Output>
+      <Time>2014-01-09T10:50:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannonball.tga</Source>
+      <Name>Sprites\cannonball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\cannonball.xnb</Output>
+      <Time>2014-01-09T10:50:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemy.tga</Source>
+      <Name>Sprites\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\enemy.xnb</Output>
+      <Time>2014-01-09T10:50:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\sprite_sheet.tga</Source>
+      <Name>Sprites\sprite_sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Sprites\sprite_sheet.xnb</Output>
+      <Time>2014-01-16T11:28:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\titel.png</Source>
+      <Name>Menu\titel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Menu\titel.xnb</Output>
+      <Time>2014-02-13T10:24:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Time>2014-01-16T11:25:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion.wav</Source>
+      <Name>Audio\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\explosion.xnb</Output>
+      <Time>2014-02-06T10:58:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\missilelaunch.wav</Source>
+      <Name>Audio\missilelaunch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\Audio\missilelaunch.xnb</Output>
+      <Time>2014-02-06T10:58:52+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0E019CCC-A9D7-4E23-AE47-5F91A3BABB5F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>K:\Periode C\GAOC1\GAOC1\GAOC1Content\</RootDirectory>
+      <LoggerRootDirectory>K:\Periode C\GAOC1\GAOC1\GAOC1\</LoggerRootDirectory>
+      <IntermediateDirectory>K:\Periode C\GAOC1\GAOC1\GAOC1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>K:\Periode C\GAOC1\GAOC1\GAOC1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-20T17:55:01.7204303+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
